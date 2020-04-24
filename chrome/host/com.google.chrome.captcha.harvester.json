@@ -1,0 +1,9 @@
+{
+  "name": "com.google.chrome.captcha.harvester",
+  "description": "Chrome Native Messaging API for the Captcha Harvester",
+  "path": "HOST_PATH",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://knldjmfmopnpolahpmmgbagdohdnhkik/"
+  ]
+}
